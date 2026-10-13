@@ -91,6 +91,3 @@ Este proyecto demuestra cómo el análisis de datos puede conectar la calidad de
 
 Proyecto desarrollado como parte del **Data Analysis Bootcamp de TripleTen**, Sprint 7, aplicando habilidades de análisis exploratorio, limpieza de datos, estadística descriptiva, visualización y segmentación de clientes.
 
-**From raw data to actionable insights.**  
-*Because every dataset tells a story — the real value is learning how to read it.*
-
