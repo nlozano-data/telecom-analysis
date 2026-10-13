@@ -20,6 +20,23 @@ Analizar los patrones de consumo de los usuarios para comprender cómo utilizan 
 - **Matplotlib & Seaborn** — visualización de distribuciones y detección de outliers.
 - **Jupyter Notebook** — análisis exploratorio documentado y reproducible.
 
+## 🚀 Explore the Project
+
+📓 **Notebook interactivo en Jupyter**
+
+Explora el análisis completo de ConnectaTel, desde la limpieza y exploración de datos hasta la segmentación de clientes, la identificación de valores atípicos y la generación de recomendaciones estratégicas para el negocio.
+
+🔗 **[Ver proyecto en Google Colab](https://colab.research.google.com/drive/1D6d6j5uEugmaSyhNQ5FlbGQaXF2MT2Y4?usp=sharing)**
+
+### ¿Cómo ejecutar el proyecto?
+
+1. Accede al notebook desde el enlace anterior.
+2. Descarga el archivo `.ipynb` para ejecutarlo localmente.
+3. Asegúrate de tener los datasets disponibles en la carpeta `datasets/`.
+4. Ejecuta las celdas en orden para reproducir el análisis y las visualizaciones.
+
+**Herramientas utilizadas:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
 ## 📂 Dataset Overview
 
 El análisis integra tres fuentes de datos:
@@ -91,3 +108,7 @@ Este proyecto demuestra cómo el análisis de datos puede conectar la calidad de
 
 Proyecto desarrollado como parte del **Data Analysis Bootcamp de TripleTen**, Sprint 7, aplicando habilidades de análisis exploratorio, limpieza de datos, estadística descriptiva, visualización y segmentación de clientes.
 
+Nicole Lozano
+Data Analytics Bootcamp | TripleTen
+
+GitHub: nlozano-analytics
